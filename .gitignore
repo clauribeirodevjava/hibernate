@@ -5,14 +5,12 @@
 
 # Maven
 target/
-pom.xml
 pom.xml.asc
 pom.xml.tag
 pom.xml.releaseBackup
 release.properties
 
-# Custom
-README.md
+
 
 # Hibernate H2 Database (se estiver usando)
 data/
