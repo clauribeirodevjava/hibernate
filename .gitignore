@@ -1,0 +1,33 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+pom.xml
+pom.xml.asc
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Custom
+README.md
+
+# Hibernate H2 Database (se estiver usando)
+data/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Compiled bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
